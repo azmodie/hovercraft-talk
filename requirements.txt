@@ -1,0 +1,7 @@
+Pygments==1.6
+configparser==3.3.0r2
+docutils==0.10
+hovercraft==1.2.dev0
+lxml==3.1.0
+svg.path==1.0b1
+wsgiref==0.1.2
